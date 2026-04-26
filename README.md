@@ -36,6 +36,20 @@ Input Image (64x64)
 - RTL Simulation
 - Xilinx Vivado
 
+## Repository Structure
+- `src/` RTL source files
+- `sim/` Testbench and simulation files
+- `memory/` COE / memory init files
+- `ip/` Vivado IP core files
+- `docs/` Reports and documentation
+- `images/` Screenshots and diagrams
+
+## Applications
+- Automated automobiles / ADAS systems
+- Road surface and pothole detection
+- Real-time embedded vision systems
+- Smart transportation infrastructure
+
 ## Project Status
 Architecture designed and functionally verified through simulation and implementation in zedboard
 
