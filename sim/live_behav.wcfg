@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="live_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="live" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="43,442.950 ns"></ZoomStartTime>
+      <ZoomEndTime time="43,641.851 ns"></ZoomEndTime>
+      <Cursor1Time time="43,280.450 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="330"></NameColumnWidth>
+      <ValueColumnWidth column_width="124"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="48" />
+   <wvobject fp_name="/live/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/kernel1" type="array">
+      <obj_property name="ElementShortName">kernel1[8:0][17:0]</obj_property>
+      <obj_property name="ObjectShortName">kernel1[8:0][17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/kernel2" type="array">
+      <obj_property name="ElementShortName">kernel2[8:0][17:0]</obj_property>
+      <obj_property name="ObjectShortName">kernel2[8:0][17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/window" type="array">
+      <obj_property name="ElementShortName">window[2:0][2:0][17:0]</obj_property>
+      <obj_property name="ObjectShortName">window[2:0][2:0][17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/linebuffer1" type="array">
+      <obj_property name="ElementShortName">linebuffer1[63:0][17:0]</obj_property>
+      <obj_property name="ObjectShortName">linebuffer1[63:0][17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/linebuffer2" type="array">
+      <obj_property name="ElementShortName">linebuffer2[63:0][17:0]</obj_property>
+      <obj_property name="ObjectShortName">linebuffer2[63:0][17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/linebuffer3" type="array">
+      <obj_property name="ElementShortName">linebuffer3[63:0][17:0]</obj_property>
+      <obj_property name="ObjectShortName">linebuffer3[63:0][17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/k" type="array">
+      <obj_property name="ElementShortName">k[6:0]</obj_property>
+      <obj_property name="ObjectShortName">k[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/j" type="array">
+      <obj_property name="ElementShortName">j[5:0]</obj_property>
+      <obj_property name="ObjectShortName">j[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/l" type="array">
+      <obj_property name="ElementShortName">l[6:0]</obj_property>
+      <obj_property name="ObjectShortName">l[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/m" type="array">
+      <obj_property name="ElementShortName">m[5:0]</obj_property>
+      <obj_property name="ObjectShortName">m[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/kernel1_1_out" type="array">
+      <obj_property name="ElementShortName">kernel1_1_out[37:0]</obj_property>
+      <obj_property name="ObjectShortName">kernel1_1_out[37:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/kernel1_2_out" type="array">
+      <obj_property name="ElementShortName">kernel1_2_out[37:0]</obj_property>
+      <obj_property name="ObjectShortName">kernel1_2_out[37:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/sum_valid" type="logic">
+      <obj_property name="ElementShortName">sum_valid</obj_property>
+      <obj_property name="ObjectShortName">sum_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/res_count" type="array">
+      <obj_property name="ElementShortName">res_count[11:0]</obj_property>
+      <obj_property name="ObjectShortName">res_count[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/count" type="array">
+      <obj_property name="ElementShortName">count[5:0]</obj_property>
+      <obj_property name="ObjectShortName">count[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/kernel1_1_out_reg" type="array">
+      <obj_property name="ElementShortName">kernel1_1_out_reg[31:0]</obj_property>
+      <obj_property name="ObjectShortName">kernel1_1_out_reg[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll_valid" type="logic">
+      <obj_property name="ElementShortName">poll_valid</obj_property>
+      <obj_property name="ObjectShortName">poll_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/buffer1" type="array">
+      <obj_property name="ElementShortName">buffer1[61:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">buffer1[61:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/buffer2" type="array">
+      <obj_property name="ElementShortName">buffer2[61:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">buffer2[61:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll_window1" type="array">
+      <obj_property name="ElementShortName">poll_window1[1:0][1:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">poll_window1[1:0][1:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll_window2" type="array">
+      <obj_property name="ElementShortName">poll_window2[1:0][1:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">poll_window2[1:0][1:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll1" type="array">
+      <obj_property name="ElementShortName">poll1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">poll1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll2" type="array">
+      <obj_property name="ElementShortName">poll2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">poll2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll_out1_1" type="array">
+      <obj_property name="ElementShortName">poll_out1_1[30:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">poll_out1_1[30:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll_out1_2" type="array">
+      <obj_property name="ElementShortName">poll_out1_2[30:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">poll_out1_2[30:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll_out1_3" type="array">
+      <obj_property name="ElementShortName">poll_out1_3[30:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">poll_out1_3[30:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/window2_1" type="array">
+      <obj_property name="ElementShortName">window2_1[2:0][2:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">window2_1[2:0][2:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll_valid2" type="logic">
+      <obj_property name="ElementShortName">poll_valid2</obj_property>
+      <obj_property name="ObjectShortName">poll_valid2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll_count" type="array">
+      <obj_property name="ElementShortName">poll_count[4:0]</obj_property>
+      <obj_property name="ObjectShortName">poll_count[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/p" type="logic">
+      <obj_property name="ElementShortName">p</obj_property>
+      <obj_property name="ObjectShortName">p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/a" type="array">
+      <obj_property name="ElementShortName">a[4:0]</obj_property>
+      <obj_property name="ObjectShortName">a[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/b" type="array">
+      <obj_property name="ElementShortName">b[31:0]</obj_property>
+      <obj_property name="ObjectShortName">b[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/kernel2_1_out" type="array">
+      <obj_property name="ElementShortName">kernel2_1_out[63:0]</obj_property>
+      <obj_property name="ObjectShortName">kernel2_1_out[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/kernel2_1_out_reg" type="array">
+      <obj_property name="ElementShortName">kernel2_1_out_reg[31:0]</obj_property>
+      <obj_property name="ObjectShortName">kernel2_1_out_reg[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll_in2_1" type="array">
+      <obj_property name="ElementShortName">poll_in2_1[28:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">poll_in2_1[28:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll_in2_2" type="array">
+      <obj_property name="ElementShortName">poll_in2_2[28:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">poll_in2_2[28:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll_in2_3" type="array">
+      <obj_property name="ElementShortName">poll_in2_3[28:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">poll_in2_3[28:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll_in_count" type="array">
+      <obj_property name="ElementShortName">poll_in_count[4:0]</obj_property>
+      <obj_property name="ObjectShortName">poll_in_count[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/stop" type="array">
+      <obj_property name="ElementShortName">stop[4:0]</obj_property>
+      <obj_property name="ObjectShortName">stop[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/second_poll_stop" type="logic">
+      <obj_property name="ElementShortName">second_poll_stop</obj_property>
+      <obj_property name="ObjectShortName">second_poll_stop</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/go" type="array">
+      <obj_property name="ElementShortName">go[6:0]</obj_property>
+      <obj_property name="ObjectShortName">go[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/buffer_count" type="array">
+      <obj_property name="ElementShortName">buffer_count[5:0]</obj_property>
+      <obj_property name="ObjectShortName">buffer_count[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/done_writing" type="logic">
+      <obj_property name="ElementShortName">done_writing</obj_property>
+      <obj_property name="ObjectShortName">done_writing</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/go_delay2" type="array">
+      <obj_property name="ElementShortName">go_delay2[6:0]</obj_property>
+      <obj_property name="ObjectShortName">go_delay2[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/go_delay" type="array">
+      <obj_property name="ElementShortName">go_delay[6:0]</obj_property>
+      <obj_property name="ObjectShortName">go_delay[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/poll_valid_demo" type="logic">
+      <obj_property name="ElementShortName">poll_valid_demo</obj_property>
+      <obj_property name="ObjectShortName">poll_valid_demo</obj_property>
+   </wvobject>
+   <wvobject fp_name="/live/first_poll" type="logic">
+      <obj_property name="ElementShortName">first_poll</obj_property>
+      <obj_property name="ObjectShortName">first_poll</obj_property>
+   </wvobject>
+</wave_config>
