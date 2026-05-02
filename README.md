@@ -53,5 +53,13 @@ Input Image (64x64)
 ## Project Status
 Architecture designed and functionally verified through simulation and implementation in zedboard
 
+## Future Work
+- Extend the current single-image inference pipeline to continuous frame-stream processing for real-time road monitoring.
+- Improve throughput using deeper pipelining, higher parallelism, and optimized memory scheduling.
+- Integrate camera input and live video preprocessing on FPGA platforms such as ZedBoard.
+- Enhance pothole classification accuracy using improved CNN models and quantized weights.
+- Add GPS tagging and wireless reporting for smart road maintenance systems.
+- Explore low-power deployment for edge-based automotive and transportation applications.
+- 
 ## Author
 Venkata Durgesh
