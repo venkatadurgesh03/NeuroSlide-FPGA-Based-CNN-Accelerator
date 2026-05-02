@@ -60,6 +60,8 @@ Architecture designed and functionally verified through simulation and implement
 - Enhance pothole classification accuracy using improved CNN models and quantized weights.
 - Add GPS tagging and wireless reporting for smart road maintenance systems.
 - Explore low-power deployment for edge-based automotive and transportation applications.
-- 
+
+
+
 ## Author
 Venkata Durgesh
